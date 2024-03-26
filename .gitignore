@@ -1,0 +1,41 @@
+# Dependency directories
+node_modules/
+
+# Environment configuration files
+.env
+.env.local
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Production build
+/build
+
+# Dist / compiled files
+/dist
+/tmp
+
+# IDE / Editor directories
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional tsc cache
+*.tsbuildinfo
+
+# Optional jest cache
+.jest/
